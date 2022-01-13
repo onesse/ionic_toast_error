@@ -1,0 +1,7 @@
+{
+  "name": "toast_error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
