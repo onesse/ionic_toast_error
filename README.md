@@ -1,6 +1,6 @@
 # ionic_toast_error
 
-Repository to repoduce the following error :
+Repository to reproduce the following error :
 ![Screenshot](screenshot.png)
 
 Just clone this repo and launch the following commands :
